@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D7F861723864CE000643832 /* CamManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7F861623864CE000643832 /* CamManager.swift */; };
+		7D7F861B2386726200643832 /* RecordManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7F861A2386726200643832 /* RecordManager.swift */; };
 		7D9AE7592330782E00FE2C6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D9AE7582330782E00FE2C6A /* AppDelegate.swift */; };
 		7D9AE75B2330782E00FE2C6A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D9AE75A2330782E00FE2C6A /* SceneDelegate.swift */; };
 		7D9AE75D2330782E00FE2C6A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D9AE75C2330782E00FE2C6A /* ViewController.swift */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D7F861623864CE000643832 /* CamManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamManager.swift; sourceTree = "<group>"; };
+		7D7F861A2386726200643832 /* RecordManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordManager.swift; sourceTree = "<group>"; };
 		7D9AE7552330782E00FE2C6A /* PiP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PiP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D9AE7582330782E00FE2C6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D9AE75A2330782E00FE2C6A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +73,8 @@
 				7D9AE7612330782F00FE2C6A /* Assets.xcassets */,
 				7D9AE7632330782F00FE2C6A /* LaunchScreen.storyboard */,
 				7D9AE7662330782F00FE2C6A /* Info.plist */,
+				7D7F861623864CE000643832 /* CamManager.swift */,
+				7D7F861A2386726200643832 /* RecordManager.swift */,
 			);
 			path = PiP;
 			sourceTree = "<group>";
@@ -147,7 +153,9 @@
 				7D9AE76F233078E400FE2C6A /* AssetWriter.swift in Sources */,
 				7D9AE75D2330782E00FE2C6A /* ViewController.swift in Sources */,
 				7D9AE76E233078E400FE2C6A /* ViewPreview.swift in Sources */,
+				7D7F861723864CE000643832 /* CamManager.swift in Sources */,
 				7D9AE7592330782E00FE2C6A /* AppDelegate.swift in Sources */,
+				7D7F861B2386726200643832 /* RecordManager.swift in Sources */,
 				7D9AE75B2330782E00FE2C6A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
